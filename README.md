@@ -1,7 +1,7 @@
 ## Hi there 👋
 #  About Me:
 
-<img src="https://cdn.prod.website-files.com/64d577298ec95b94326c23bb/64debde90382d4a952d503ef_Draw.gif" width=40% align="right" />
+<!--<img src="https://cdn.prod.website-files.com/64d577298ec95b94326c23bb/64debde90382d4a952d503ef_Draw.gif" width=40% align="right" />-->
 
 Hey, I'm Abhishek! <br>Hi, I'm Abhi. I'm someone who enjoys building things with code and constantly learning new skills. I’m especially interested in technology that solves real-world problems and makes everyday tasks easier.
 
