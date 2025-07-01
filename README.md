@@ -11,9 +11,7 @@ I'm currently focused on growing both as a developer and as a person — one ste
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:08abhishekpal@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/bryan-christy)
-[![Leetcode](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://leetcode.com)
-[![Hackerrank](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://hackerrank.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/abhishek-pal-54083a351)
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
