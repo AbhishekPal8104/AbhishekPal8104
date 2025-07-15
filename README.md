@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 #  About Me:
 
 <!--<img src="https://cdn.prod.website-files.com/64d577298ec95b94326c23bb/64debde90382d4a952d503ef_Draw.gif" width=40% align="right" />-->
